@@ -12,4 +12,7 @@
      │
      ▼ Grype report (grype-report.json)
 
+**JavaScript security: Vulnerabilities and best practices**
+https://raygun.com/blog/js-security-vulnerabilities-best-practices/
+
 
