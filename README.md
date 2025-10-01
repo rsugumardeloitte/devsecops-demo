@@ -1,21 +1,15 @@
     Code
      │
-     ▼
-  SAST (Semgrep)
+     ▼ SAST (Semgrep)
      │
-     ▼
- Generates SAST report (logs/artifact)
+     ▼ Generates SAST report (logs/artifact)
      │
-     ▼
-SBOM Generation (Syft / SIFT)
+     ▼ SBOM Generation (Syft / SIFT)
      │
-     ▼
- SBOM file (sbom.json / CycloneDX)
+     ▼ SBOM file (sbom.json / CycloneDX)
      │
-     ▼
-SCA / Vulnerability Scan (Grype)
+     ▼ SCA / Vulnerability Scan (Grype)
      │
-     ▼
- Grype report (grype-report.json)
+     ▼ Grype report (grype-report.json)
 
 
